@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdo:home|Door43 (sdo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdo|d43-sdo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdo/archive/master.zip|d43-sdo.zip]]
+
+**Recent Changes**
+{{changes>ns = sdo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdo|Ethnologue data]]
+
